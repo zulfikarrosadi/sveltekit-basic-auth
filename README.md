@@ -18,3 +18,5 @@ I guess it's a good step to grasp basic understanding of sveltekit, it covers im
 - API
 - form action and loader
 
+
+I did this because I also want to compare some auth library like Better Auth or Lucia
